@@ -33,4 +33,4 @@ AnimationListView(
 ## Screenshot
 
 
-![prefetch](animation_list.gif)
+![prefetch](animation_list.gif height="50")
